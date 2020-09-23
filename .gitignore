@@ -119,3 +119,4 @@ dist
 /truffle-config.js
 /script/
 /migrations/
+/test/
